@@ -1,0 +1,19 @@
+  /* .App {
+  text-align: center;
+} */
+
+/* ul {
+  list-style-type: none;
+} */
+
+.bannerText{
+  border: 1px solid;
+  position: absolute;
+  left: 50%;
+  top: 30%;
+  transform: translate(-50%, 30%);
+  padding: 67px;
+  border-radius: 8px;
+  font-size: 30px;
+  color: blueviolet;
+}
